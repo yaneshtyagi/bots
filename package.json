@@ -1,0 +1,27 @@
+{
+  "name": "bot-test",
+  "version": "0.0.1",
+  "description": "first-botframework-test-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaneshtyagi/bots.git"
+  },
+  "keywords": [
+    "VSharp",
+    "bots"
+  ],
+  "author": "Yanesh Tyagi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yaneshtyagi/bots/issues"
+  },
+  "homepage": "https://github.com/yaneshtyagi/bots#readme",
+  "dependencies": {
+    "botbuilder": "^0.6.5",
+    "restify": "^4.0.4"
+  }
+}
